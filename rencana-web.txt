@@ -1,5 +1,5 @@
 Bikin web berbasis javascript dan framework2nya
-Node.JS
+Node.JS React
 Bikin web berbasis PHP dan framework2nya
 Laravel
 Bikin web berbasis Python dan Django
