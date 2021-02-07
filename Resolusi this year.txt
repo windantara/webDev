@@ -1,7 +1,6 @@
 Resolusi untuk tahun ini
 - Membuat web sendiri
 - Membuat web portofolio
-- Get a job
 - Fullstack developer
 - Konsisten belajar setiap hari
 
