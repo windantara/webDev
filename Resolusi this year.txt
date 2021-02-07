@@ -3,5 +3,6 @@ Resolusi untuk tahun ini
 - Membuat web portofolio
 - Get a job
 - Fullstack developer
+- Konsisten belajar setiap hari
 
 And it all start here
