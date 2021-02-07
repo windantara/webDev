@@ -1,7 +1,6 @@
 Bikin web berbasis javascript dan framework2nya
-Node.JS React
+Angular React
 Bikin web berbasis PHP dan framework2nya
-Laravel
+Laravel CI
 Bikin web berbasis Python dan Django
-Bikin web dengan beberapa bahasa yang berbeda
 Pahami dan pelajari HTML5 dan CSS3
