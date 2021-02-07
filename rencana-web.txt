@@ -1,0 +1,4 @@
+Bikin web berbasis javascript dan framework2nya
+Bikin web berbasis PHP dan framework2nya
+Bikin web berbasis Python dan Django
+Pahami dan pelajari HTML5 dan CSS3
